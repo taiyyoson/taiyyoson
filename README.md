@@ -8,9 +8,19 @@ My name is Taiyo Williamson, I'm a current second-year Computer Science candidat
 #### 🌟 Projects & Language Preferences 🌟
 
 
+### 👾
+I prefer coding in Java, C, and Python, in that order. I view other languages as extensions of these three--I am also the most adept in these--so will not include them. 
+
+### 🗓️
+I am currently working on my Sudoku game, and I have HUUUUGGGEE plans for this summer. I have an internship set but will try to 
+
+### 🌱
+I’m currently learning making neural networks without the help of ML libraries like TensorFlow. I am learning to construct my own deep learning and generative AI models, in particular. 
+
+
 #### 📫How to Reach Me 📫
 
-I am available via email @ tpwilliamson.dons.usfca.edu, or LinkedIn. I should pop up with a "Taiyo Williamson" search. I will not be giving you my phone number, for obvious reasons. 
+I am available via email @ tpwilliamson.dons.usfca.edu, or LinkedIn. I should pop up with a quick "Taiyo Williamson" search. I will not be giving you my phone number for obvious reasons. 
 
 <!--
 **taiyyoson/taiyyoson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
