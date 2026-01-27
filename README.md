@@ -21,7 +21,9 @@ I'm passionate about cloud-native technologies, distributed systems, and buildin
 **Languages:** Golang, C, Python, Java,  C++, React JavaScript, R
 
 **Infrastructure & DevOps:** Kubernetes, Docker, Linux, Self-hosting  
+
 **Frameworks & Tools:** Kubernetes, Helm, Jenkins, Docker, Apache Maven, Node.js, Git, GCP, Prometheus, Terraform (to name a few cloud-focused, this could go on forever...)
+
 **Concepts:** Distributed Systems, Multithreading, Network Flow Algorithms, System Design
 
 ---
