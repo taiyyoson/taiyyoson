@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 about me
 
 I'm a student at the University of San Francisco.
 
@@ -16,7 +16,7 @@ I'm passionate about cloud-native technologies, distributed systems, and buildin
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ technical skills
 
 **Languages:** Golang, C, Python, Java,  C++, React JavaScript, R
 
@@ -37,7 +37,7 @@ Building a self-hosted infrastructure for application deployment, data storage, 
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 currently working on
 
 - Exploring LiDAR technology and embedded systems applications
 - NALA AI chatbot as a focus for my Thesis Research on ML-People Interaction (of different demographics) with possible Cloud Applications
@@ -46,15 +46,7 @@ Building a self-hosted infrastructure for application deployment, data storage, 
 
 ---
 
-## 💡 Interests
+## 💡 interests
 
 When I'm not coding, I enjoy gaming, fitness, outdoors activities, and exploring new technologies.
 
----
-
-## 📫 Let's Connect
-
-**Email:** tpwilliamson@dons.usfca.edu  
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
